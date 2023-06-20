@@ -1,5 +1,6 @@
 # semana10_atividade
 A Oracle Cloud Infrastructure (OCI) oferece diversos serviços em nuvem, que incluem soluções híbridas e multicloud, como Oracle Database Service for Microsoft Azure ou nuvem pública. Alguns dos serviços oferecidos pela OCI incluem:
+
 **1) Autonomous Database**: Um banco de dados autônomo que automatiza o gerenciamento do banco de dados e a segurança, proporcionando maior eficiência e reduzindo a necessidade de intervenção manual.
 
 **2) Arm Compute**: Uma opção de computação baseada em Arm que oferece desempenho e eficiência energética, permitindo que os usuários executem cargas de trabalho com alto desempenho de forma mais eficiente em termos de consumo de energia.
