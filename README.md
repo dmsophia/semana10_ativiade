@@ -1,35 +1,24 @@
-# semana10_atividade
-A Oracle Cloud Infrastructure (OCI) oferece diversos serviços em nuvem, que incluem soluções híbridas e multicloud, como Oracle Database Service for Microsoft Azure ou nuvem pública. Alguns dos serviços oferecidos pela OCI incluem:
+# Atividade Semana 10
+O IBM Watson é uma plataforma de inteligência artificial desenvolvida pela IBM que combina diferentes tecnologias, como Processamento de Linguagem Natural (PLN), Aprendizado de Máquina, Reconhecimento de Padrões e Raciocínio Lógico, para fornecer diversas soluções. O IBM Watson foi projetado para processar e compreender grandes volumes de dados não estruturados, como textos, imagens e áudios, e extrair insights valiosos a partir deles, ou seja, idela para PLN.A plataforma Watson oferece uma variedade de serviços e APIs (interfaces de programação de aplicativos) que podem ser utilizados por desenvolvedores e empresas para criar aplicativos e soluções inteligentes. Alguns exemplos desses serviços incluem:
 
-**1) Autonomous Database**: Um banco de dados autônomo que automatiza o gerenciamento do banco de dados e a segurança, proporcionando maior eficiência e reduzindo a necessidade de intervenção manual.
+1. **Watson Assistant**: Permite a criação de chatbots e assistentes virtuais que podem interagir com os usuários de forma natural. Pode ser aplicado para ser um assistente virtual para atendimento ao cliente de bancos, acelerando o processo de atendimento e diminuindo o tempo de espera do cliente.
 
-**2) Arm Compute**: Uma opção de computação baseada em Arm que oferece desempenho e eficiência energética, permitindo que os usuários executem cargas de trabalho com alto desempenho de forma mais eficiente em termos de consumo de energia.
+2. **Watson Discovery**: Permite a busca e análise de grandes volumes de dados não estruturados, como documentos, relatórios e páginas da web. Ideal para busca otimizada no conteúdo de artigos.
 
-**3) Storage**: Serviços de armazenamento em nuvem para dados estruturados e não estruturados, permitindo que as organizações armazenem e acessem seus dados de forma escalável e segura.
+3. **Watson Language Translator**: Fornece recursos de tradução automática entre diferentes idiomas. Ideal para aplicativos que fornecem diferentes línguas a escolha do usuário.
 
-**4) Integração**: Serviços de integração que facilitam a conexão entre aplicativos e dados em nuvem e ambientes locais, permitindo a transferência e sincronização de dados de forma eficiente.
+4. **Watson Natural Language Understanding**: Analisa e extrai informações de textos para entender entidades, emoções, tópicos e sentimentos. Pode ser aplicado para entender os sentimentos em avaliações dos clientes. 
 
-**5) Métricas e BI**: Serviços de análise de dados e business intelligence que ajudam as empresas a transformar dados brutos em insights acionáveis, permitindo uma melhor tomada de decisões baseada em informações.
+5. **Watson Visual Recognition**: Reconhece e classifica imagens e vídeos com base em seu conteúdo. Um aeroporto pode utilizar essa tecnologia para analisar e classificar imagens capturadas por câmeras de segurança.
 
-**6) Machine learning e IA**: Serviços de aprendizado de máquina e inteligência artificial que permitem às organizações criar modelos preditivos e desenvolver aplicativos inteligentes para impulsionar a inovação e a automação.
+## Estudo de caso
+A Camping World é uma varejista de veículos recreativos (RVs). Para fornecer um bom atendimento ao cliente, a empresa conta ativamente com suas centrais de contato para fornecer um atendimento incomparável ao cliente, mas após a pandemia da COVID-19, um aumento no número de clientes revelou alguns problemas na infraestrutura existentes.
 
-**7) Big Data e Data Lake**: Serviços para armazenar, processar e analisar grandes volumes de dados, permitindo que as organizações obtenham insights valiosos e tomem decisões informadas com base em seus dados.
+Com o aumento do volume e do tráfego, as lacunas no gerenciamento de agentes e nos tempos de resposta se tornaram recorrentes, pois quando os clientes não conseguiam entrar em contato com um agente humano em tempo real fora do horário de atendimento do call center, suas perguntas e consultas eram adiadas até o dia seguinte, quando um representante poderia responder, ou eram totalmente descartadas acidentalmente.
 
-**8) Compute**: Opções de computação escalonáveis para atender às necessidades de desempenho e capacidade, permitindo que as organizações implantem e gerenciem seus aplicativos com flexibilidade.
-
-**9) Armazenamento**: Opções de armazenamento escalonáveis para atender às necessidades de capacidade e desempenho, permitindo que as organizações gerenciem e acessem seus dados de maneira eficiente.
-
-**10) Contêineres e funções**: Serviços que permitem implantar e gerenciar aplicativos em contêineres ou como funções sem servidor, proporcionando maior flexibilidade e escalabilidade.
-
-## Estudo de caso - PRIO Energy
-A PRIO Energy é uma empresa de energia elétrica que estava em busca de modernizar seu sistema ERP (Sistema Integrado de Gestão Empresarial) para aprimorar a eficiência e a escalabilidade de suas operações. Para atender a essa necessidade, a PRIO decidiu recorrer à Oracle, reconhecida líder em soluções de nuvem e automação. A Oracle ofereceu uma plataforma de automação baseada em nuvem, que permitiu à empresa aprimorar sua infraestrutura tecnológica e obter benefícios significativos em termos de agilidade, segurança e confiabilidade que, através da integração dos aplicativos da PRIO com a plataforma Oracle Cloud Infrastructure (OCI), a empresa foi capaz de criar uma solução de rede de aplicativos multicloud.
-Com a Integração de Aplicativos OCI, a PRIO conseguiu estabelecer uma conexão entre suas estações de abastecimento e o sistema ERP, o que resultou em uma melhor visibilidade de todas as transações realizadas, permitindo que a empresa pudesse acompanhar e monitorar seus processos de forma mais eficiente. Além disso, a solução proporcionou uma maneira segura de gerenciar as integrações multicloud da empresa, garantindo a proteção dos dados e a conformidade com as normas de segurança.
+Para resolver esses problemas, a Camping World implementou uma solução IBM (IBM Assistant) para remodelar os call centers da empresa. Com interações com o cliente como ponto focal, a Camping World modernizou suas centrais de contato e investir em uma nova infraestrutura para melhorar os processos e a automação do fluxo de trabalho. A partir de março de 2022, o engajamento do cliente aumentou significativamente e o número de conversas perdidas diminuiu.
 
 ### Referências
-[1] ORACLE: Cloud Infrastructure. Disponível em: https://www.oracle.com/cloud/. Acesso em: [19/06/2023]
-
-[2] ORACLE: View Oracle Cloud Service Details. Disponível em: https://docs.oracle.com/en/cloud/cloud-at-customer/occ-get-started/view-oracle-cloud-service-details.html. Acesso em: [19/06/2023]
-
-[3] ORACLE: Oracle Cloud Services. Disponível em: Detailed Overview And Benefits. https://www.spec-india.com/blog/oracle-cloud-services-guide. Acesso em: [19/06/2023]
-
-[4] ORACLE: PRIO Energy connects their multicloud EV charging network faster with Oracle Cloud Infrastructure integration services. Disponpivel em: https://www.oracle.com/customers/prio-energy-case-study/. Acesso em [19/06/2023]
+[1] IBM: Watson Assistant case studies. Disponível em: https://www.ibm.com/products/watson-assistant/case-studies. Acesso em: [20/06/2023]
+[2] IBM: Watson Assistant. Disponível em: https://www.ibm.com/br-pt/products/watson-assistant. Acesso em: [20/06/2023]
+[3] IBM: Camping World case study. Disponível em: https://www.ibm.com/case-studies/camping-world. Acesso em: [20/06/2023]
